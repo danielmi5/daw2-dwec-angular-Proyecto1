@@ -2,6 +2,8 @@
 
 ## Aplicación en distintos navegadores
 
+Si el navegador es Google Chrome el div será de color azul. Para todos los demás navegadores será de color verde. Ejemplos: 
+
 **Firefox**
 
 ![App en Firefox](img/firefox.png)
@@ -9,6 +11,10 @@
 **Google Chrome**
 
 ![App en Google Chrome](img/chrome.png)
+
+**Edge**
+
+![App en Microsoft Edge](img/edge.png)
 
 ## Visualización al interactuar con los elementos
 
